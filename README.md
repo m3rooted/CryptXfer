@@ -33,7 +33,7 @@ To run CryptXfer, you need to have the following installed:
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/NguyenDuongQuang/CryptXfer.git
+    git clone https://github.com/m3rooted/CryptXfer.git
     cd CryptXfer
     ```
 
@@ -140,5 +140,3 @@ For any issues, suggestions, or contributions, feel free to reach out or create 
 ---
 
 Thank you for using **CryptXfer**. Secure your file transfers with confidence!
-
-- **<contact@m3rooted.com>**
